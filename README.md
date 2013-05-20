@@ -23,7 +23,7 @@ cap8 - Em processo de tradução por Filipi Siqueira.
 
 cap9 - em aberto
 
-cap10 - em aberto
+cap10 - Em processo de tradução por Eric Oliveira.
 
 cap11 - em aberto
 
