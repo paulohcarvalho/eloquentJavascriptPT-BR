@@ -13,7 +13,7 @@ cap3 - Em processo de tradução por João Dionyso.
 
 cap4 - Em processo de tradução por Fernando Daciuk.
 
-cap5 - em aberto
+cap5 - Em processo de tradução por Leonardo Elias.
 
 cap6 - Em processo de tradução por Anderson de Castro.
 
