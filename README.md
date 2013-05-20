@@ -15,7 +15,7 @@ cap4 - Em processo de tradução por Fernando Daciuk.
 
 cap5 - em aberto
 
-cap6 - em aberto
+cap6 - Em processo de tradução por Anderson de Castro.
 
 cap7 - em aberto
 
