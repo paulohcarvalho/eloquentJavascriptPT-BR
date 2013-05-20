@@ -11,7 +11,7 @@ cap2 - Em processo de tradução por Kaue Machado.
 
 cap3 - Em processo de tradução por João Dionyso.
 
-cap4 - em aberto
+cap4 - Em processo de tradução por Fernando Daciuk.
 
 cap5 - em aberto
 
