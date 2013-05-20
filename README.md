@@ -19,7 +19,7 @@ cap6 - Em processo de tradução por Anderson de Castro.
 
 cap7 - em aberto
 
-cap8 - em aberto
+cap8 - Em processo de tradução por Filipi Siqueira.
 
 cap9 - em aberto
 
