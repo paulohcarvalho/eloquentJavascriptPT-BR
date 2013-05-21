@@ -33,7 +33,7 @@ cap13 - em aberto
 
 cap14 - em aberto
 
-Apêndice1 - em aberto
+Apêndice1 - Em processo de tradução por Matheus Lucca.
 
 Apêndice2 - em aberto
 
